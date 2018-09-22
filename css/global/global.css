@@ -7363,6 +7363,10 @@
 }
 
 .g-bg-color--primary-ltr {
+<<<<<<< HEAD
   background-image: linear-gradient(145deg, rgba(19, 177, 205, 0.6) 0%, #172225 100%);
+=======
+  background-image: linear-gradient(145deg, rgba(19, 177, 205, 0.6) 0%, #13b1cd 100%);
+>>>>>>> 2548540d7a1af9e5a3c537a357225c025dfc1bad
   background-repeat: repeat-x;
 }
