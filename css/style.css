@@ -2390,3 +2390,16 @@ fieldset[disabled] .s-btn {
 .s-swiper__pagination-v1--dark .swiper-pagination-bullet-active {
   background: #13b1cd;
 }
+
+.iframesetting{
+  width:100%;
+  margin:0;
+  padding-bottom: 56.25%;
+  position: relative;
+}
+
+.iframesetting iframe {
+  position:absolute;
+  width:100%;
+  height:100%;
+}
